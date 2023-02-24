@@ -259,7 +259,7 @@ PLATFORMS
   x86_64-darwin-22
 
 DEPENDENCIES
-  github-pages
+  github-pages (~> 228)
   http_parser.rb (~> 0.6.0)
   jekyll-feed (~> 0.12)
   mere-blog-theme
