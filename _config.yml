@@ -31,7 +31,8 @@ github_username:  jekyll
 
 # Build settings
 #theme: minima
-theme: mere-blog-theme
+#theme: mere-blog-theme
+remote_theme: chrisrhymes/mere-blog-theme
 
 plugins:
   - jekyll-feed
