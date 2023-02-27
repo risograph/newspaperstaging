@@ -26,7 +26,7 @@ authors:
       email:          
       twitter:    
 
-    sevanazadoian:
+    test:
       name:           "Sevana Zadoian"
       site:           
       avatar:         
@@ -35,7 +35,7 @@ authors:
       twitter:    
       
     octaviaroberts:
-      name:           "Octavia Roberts"
+      name:           "Sevana Zadoian"
       site:           https://riso.gay
       avatar:         
       bio:            "Art Direction, Web Development"
@@ -52,8 +52,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: sal
-      avatar: /assets/images/avatar1.jpg
+      author: CSArtisan
+      avatar: /assets/images/iconblack.svg
       
   # all pages
   - scope:
