@@ -3,8 +3,8 @@ layout: post
 title:  "CSArts' Enchanted Evening"
 author: "sophiabrunet"
 categories: [ Events ]
-image: assets/images/the-history-of-valentines-day.jpg.avif
-tags: [ sticky ]
+image: assets/images/home.jpg
+tags: []
 ---
 
 As we settle into the second semester of the school year, it's time to celebrate! On February 4th, CSArts students gathered together to dance with their friends at Winter Formal, held at the Springfield Banquet Hall. The theme of the night was Enchanted Evening, and many dressed in their finest dresses and suits, some with florals, lace, and greens and purples to match the theme.

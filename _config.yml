@@ -24,8 +24,16 @@ authors:
       avatar:         
       bio:            "Head Editor, Club Manager"
       email:          
-      twitter:        
+      twitter:    
 
+    sevanazadoian:
+      name:           "Sevana Zadoian"
+      site:           
+      avatar:         
+      bio:            "Author"
+      email:          
+      twitter:    
+      
     octaviaroberts:
       name:           "Octavia Roberts"
       site:           https://riso.gay
@@ -34,13 +42,7 @@ authors:
       email:          
       twitter: 
 
-    sevanazadoian:
-      name:           "Sevana Zadoian"
-      site:           
-      avatar:         
-      bio:            "Author"
-      email:          
-      twitter:        
+      
 
 # Defaults
 defaults:
