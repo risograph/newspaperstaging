@@ -84,14 +84,22 @@ hr {
   height: 0;
   overflow: visible; }
 
-h1, h2, h3 {
+h1 {
+  font-family: "Roboto Serif", serif;
+  font-weight: 800;
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 0.5rem; }
+
+ h2 {
   font-family: "Roboto Serif", serif;
   font-weight: 700;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
-h4, h5, h6 {
+h3, h4, h5, h6 {
   font-family: "Atkinson Hyperlegible", sans-serif;
+  font-style: italic;
   font-weight: 700;
   margin-top: 0;
   margin-bottom: 0.5rem; }
