@@ -4,6 +4,8 @@
  * Copyright 2011-2018 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
+/* Atkinson Hyperlegible (400/Italic), Roboto Serif 800/144/100 */
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital@0;1&family=Roboto+Serif:ital,opsz,wght,GRAD@1,8..144,805,100&display=swap');
 :root {
   --blue: #7832e2;
   --indigo: #502c6c;
