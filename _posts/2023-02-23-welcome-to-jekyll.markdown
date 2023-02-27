@@ -1,8 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2023-02-23 16:55:30 -0800
-categories: jekyll update
+title: Post with Intro
+author: Guest Author
+intro: This is the introduction text for this post. It appears large and bold at the top of the post
+intro_image: /img/home.jpg
+intro_image_ratio: is-16by9
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
