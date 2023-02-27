@@ -658,7 +658,7 @@ article {
     font-family:Lora;
 }
 .article-headline {
-    font-family: Georgia,Times,"Times New Roman",serif;
+    font-family: "Roboto Serif",Times,"Times New Roman",serif;
     font-size: 3.2rem;
     font-weight: 400;
     line-height: 1.15;
@@ -675,7 +675,7 @@ article blockquote {
 }
 article blockquote:before {
 	content:"“";
-	font-family:Georgia;
+	font-family:"Roboto Serif";
 	font-size:8rem;
 	margin:-1rem 2rem 0 -3.9rem;
 	position:absolute;
