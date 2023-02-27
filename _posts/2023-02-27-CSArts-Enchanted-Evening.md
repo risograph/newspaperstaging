@@ -3,7 +3,7 @@ layout: post
 title:  "CSArts' Enchanted Evening"
 author: "sophiabrunet"
 categories: [ Events ]
-image: assets/images/missing.png
+image: assets/images/posts/missing.png
 tags: []
 ---
 

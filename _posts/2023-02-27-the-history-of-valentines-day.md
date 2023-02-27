@@ -3,7 +3,7 @@ layout: post
 title:  "The History of Valentines Day"
 author: "sevanazadoian"
 categories: [ misc ]
-image: assets/images/the-history-of-valentines-day.jpg.avif
+image: assets/images/posts/the-history-of-valentines-day.jpg.avif
 tags: [ sticky ]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Masters in Makeup"
 author: "sophiabrunet"
 categories: [ Misc ]
-image: /assets/images/missing.png
+image: /assets/images/posts/missing.png
 tags: []
 ---
 
