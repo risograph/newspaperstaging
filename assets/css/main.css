@@ -5,7 +5,8 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 /* Atkinson Hyperlegible (400/Italic), Roboto Serif 700 */
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Serif:ital,opsz,wght@1,8..144,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Serif:ital,opsz,wght@0,8..144,500;0,8..144,600;0,8..144,700;0,8..144,800;0,8..144,900;1,8..144,500;1,8..144,600;1,8..144,700;1,8..144,800;1,8..144,900&display=swap');
+
 :root {
   --blue: #7832e2;
   --indigo: #502c6c;
@@ -84,7 +85,7 @@ hr {
   overflow: visible; }
 
 h1, h2, h3 {
-  font-family: "Roboto", serif;
+  font-family: "Roboto Serif", serif;
   font-weight: 700;
   margin-top: 0;
   margin-bottom: 0.5rem; }
