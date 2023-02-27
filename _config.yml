@@ -26,24 +26,24 @@ authors:
       email:          
       twitter:    
 
-    sevanazadoian:
-      name:           "Sevana Zadoian"
-      site:           
-      avatar:         
-      bio:            "Author"
-      email:          
-      twitter:    
-      
-    octaviaroberts:
+  octaviaroberts:
       name:           "Octavia Roberts"
       site:           https://riso.gay
       avatar:         
       bio:            "Art Direction, Web Development"
       email:          
-      twitter: 
+      
+    sevanazadoian:
+      name:           "Sevana Zadoian"          
+      avatar:         
+      bio:            "Author"
+      email:             
+      
+    
     
     ivykim:
       name:           "Ivy Kim"
+      bio:            "Author"
 
       
 
