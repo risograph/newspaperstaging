@@ -65,7 +65,7 @@ article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
 
 body {
   margin: 0;
-  font-family: 'Atkinson Hyperlegible', sans-serif;
+  font-family: "Atkinson Hyperlegible", sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.6;
@@ -81,13 +81,20 @@ hr {
   height: 0;
   overflow: visible; }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Roboto Serif', serif;
+h1, h2, h3 {
+  font-family: "Roboto Serif", serif;
+  font-weight: 800;
+  margin-top: 0;
+  margin-bottom: 0.5rem; }
+
+h4, h5, h6 {
+  font-family: "Atkinson Hyperlegible", sans-serif;
   font-weight: 800;
   margin-top: 0;
   margin-bottom: 0.5rem; }
 
 p {
+  font-family: "Atkinson Hyperlegible", sans-serif;
   margin-top: 0;
   margin-bottom: 1rem; }
 
