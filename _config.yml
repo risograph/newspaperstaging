@@ -16,6 +16,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-seo-tag
+  # ↑ installed by template
+  # ↓ installed by user
+  - jekyll-admin
   
 authors:
     sophiabrunet:
