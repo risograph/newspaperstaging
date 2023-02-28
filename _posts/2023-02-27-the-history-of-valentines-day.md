@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "The History of Valentines Day"
-author: "sevanazadoian"
+author: "Sevana Zadoian"
 categories: [ misc ]
 image: assets/images/posts/the-history-of-valentines-day.jpg.avif
+[//]: # if imagecred needs to be blank, do not use [""], instead leave it alone as [imagecred: ].
+imagecred: 
 tags: []
 ---
 

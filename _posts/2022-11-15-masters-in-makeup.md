@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Masters in Makeup"
-author: "sophiabrunet"
+author: "Sophia Brunet"
 categories: [ misc ]
 image: /assets/images/posts/none/fill2.png
+[//]: # if imagecred needs to be blank, do not use [""], instead leave it alone as [imagecred: ].
+imagecred: 
 tags: []
 ---
 

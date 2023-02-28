@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "IA Romeo & Juliet"
-author: "octaviaroberts"
+author: "Octavia Roberts"
 categories: [ productions ]
 image: assets/images/posts/romeo-and-juliet.jpeg
+[//]: # if imagecred needs to be blank, do not use [""], instead leave it alone as [imagecred: ].
+imagecred: "Kathryn Mueller"
 tags: [sticky]
 ---
 

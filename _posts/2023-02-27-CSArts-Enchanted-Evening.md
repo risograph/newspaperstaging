@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "CSArts' Enchanted Evening"
-author: "sophiabrunet"
+author: "Sophia Brunet"
 categories: [ events ]
 image: assets/images/posts/none/fill3.png
+[//]: # if imagecred needs to be blank, do not use [""], instead leave it alone as [imagecred: ].
+imagecred: 
 tags: [sticky]
 ---
 

@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "The Drowsy Chaperone"
-author: "sevanazadoian"
+author: "Sevana Zadoian"
 categories: [ productions ]
 image: /assets/images/posts/the-drowsy-chaperone.jpg
+[//]: # if imagecred needs to be blank, do not use [""], instead leave it alone as [imagecred: ].
+imagecred: "Sevana Zadoian"
 tags: []
 ---
 
