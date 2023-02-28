@@ -2,7 +2,7 @@
 layout: post
 title:  "Glitz & Glamour — Old Hollywood & Winter Formal"
 author: "sophiabrunet"
-categories: [ Events ]
+categories: [ events ]
 image: /assets/images/posts/glitz-and-glamour.png
 tags: []
 ---

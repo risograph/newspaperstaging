@@ -15,4 +15,7 @@ group :jekyll_plugins do
     gem 'jekyll-sitemap'
     gem 'jekyll-paginate'
     gem 'jekyll-seo-tag'
+    # ↑ installed by template
+    # ↓ installed by user
+    gem 'jekyll-admin'
 end

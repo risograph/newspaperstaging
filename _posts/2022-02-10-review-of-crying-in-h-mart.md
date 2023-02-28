@@ -2,7 +2,7 @@
 layout: post
 title:  "Review of Crying in H-Mart"
 author: "ivykim"
-categories: [ Reviews ]
+categories: [ reviews ]
 image: /assets/images/posts/crying-in-h-mart.jpg
 tags: []
 ---
